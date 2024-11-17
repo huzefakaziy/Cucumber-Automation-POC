@@ -1,0 +1,700 @@
+2021-06-19-21:17:01.949 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-19-21:17:06.082 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-19-21:17:07.758 [main] DEBUG utilities.Base - URL launched
+2021-06-19-21:17:07.773 [main] TRACE utilities.Base - Login class initialized
+2021-06-19-21:17:08.921 [main] TRACE utilities.Base - Username entered
+2021-06-19-21:17:09.042 [main] TRACE utilities.Base - Password entered
+2021-06-19-21:17:15.683 [main] TRACE utilities.Base - Login button clicked
+2021-06-19-21:17:15.685 [main] DEBUG utilities.Base - logOut method called
+2021-06-19-21:17:16.492 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-19-21:17:16.695 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-19-21:17:19.016 [main] FATAL utilities.Base - Exception in onTestSuccess Method of Listeners class
+2021-06-19-21:17:19.016 [main] FATAL utilities.Base - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTL014311', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver : [Ljava.lang.StackTraceElement;@4ba02375
+2021-06-19-21:17:43.402 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-19-21:17:47.020 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-19-21:17:48.544 [main] DEBUG utilities.Base - URL launched
+2021-06-19-21:17:48.562 [main] TRACE utilities.Base - Login class initialized
+2021-06-19-21:17:49.948 [main] TRACE utilities.Base - Username entered
+2021-06-19-21:17:50.039 [main] TRACE utilities.Base - Password entered
+2021-06-19-21:17:55.811 [main] TRACE utilities.Base - Login button clicked
+2021-06-19-21:17:55.813 [main] DEBUG utilities.Base - logOut method called
+2021-06-19-21:17:56.323 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-19-21:17:56.597 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-19-21:17:58.910 [main] FATAL utilities.Base - Exception in onTestSuccess Method of Listeners class
+2021-06-19-21:17:58.910 [main] FATAL utilities.Base - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTL014311', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver : [Ljava.lang.StackTraceElement;@9e54c59
+2021-06-19-21:19:46.370 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-19-21:19:49.631 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-19-21:19:51.443 [main] DEBUG utilities.Base - URL launched
+2021-06-19-21:19:51.465 [main] TRACE utilities.Base - Login class initialized
+2021-06-19-21:19:52.718 [main] TRACE utilities.Base - Username entered
+2021-06-19-21:19:52.782 [main] TRACE utilities.Base - Password entered
+2021-06-19-21:19:57.898 [main] TRACE utilities.Base - Login button clicked
+2021-06-19-21:19:57.900 [main] DEBUG utilities.Base - logOut method called
+2021-06-19-21:19:58.476 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-19-21:19:58.698 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-19-21:20:00.921 [main] FATAL utilities.Base - Exception in onTestSuccess Method of Listeners class
+2021-06-19-21:20:00.921 [main] FATAL utilities.Base - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTL014311', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver : [Ljava.lang.StackTraceElement;@e146f93
+2021-06-19-21:44:44.428 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-19-21:44:47.464 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-19-21:44:48.807 [main] DEBUG utilities.Base - URL launched
+2021-06-19-21:44:48.822 [main] TRACE utilities.Base - Login class initialized
+2021-06-19-21:44:49.807 [main] TRACE utilities.Base - Username entered
+2021-06-19-21:44:49.919 [main] TRACE utilities.Base - Password entered
+2021-06-19-21:44:55.806 [main] TRACE utilities.Base - Login button clicked
+2021-06-19-21:44:55.809 [main] DEBUG utilities.Base - logOut method called
+2021-06-19-21:44:56.698 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-19-21:44:56.947 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-19-21:45:31.267 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-19-21:45:35.999 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-19-21:45:37.375 [main] DEBUG utilities.Base - URL launched
+2021-06-19-21:45:37.397 [main] TRACE utilities.Base - Login class initialized
+2021-06-19-21:45:38.671 [main] TRACE utilities.Base - Username entered
+2021-06-19-21:45:38.840 [main] TRACE utilities.Base - Password entered
+2021-06-19-21:45:38.993 [main] TRACE utilities.Base - Login button clicked
+2021-06-19-21:45:38.996 [main] DEBUG utilities.Base - logOut method called
+2021-06-19-21:45:44.535 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-19-21:45:44.772 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-19-21:45:47.057 [main] FATAL utilities.Base - Exception in onTestSuccess Method of Listeners class
+2021-06-19-21:45:47.058 [main] FATAL utilities.Base - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTL014311', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver : [Ljava.lang.StackTraceElement;@e146f93
+2021-06-21-06:38:38.287 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-06:38:43.110 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-06:38:45.005 [main] DEBUG utilities.Base - URL launched
+2021-06-21-06:38:45.020 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-06:38:45.821 [main] TRACE utilities.Base - Username entered
+2021-06-21-06:38:45.896 [main] TRACE utilities.Base - Password entered
+2021-06-21-06:38:45.975 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-06:38:45.978 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-06:38:56.522 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-06:38:56.672 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-06:38:59.705 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-06:39:02.160 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-06:39:03.472 [main] DEBUG utilities.Base - URL launched
+2021-06-21-06:39:03.473 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-06:39:03.699 [main] TRACE utilities.Base - Username entered
+2021-06-21-06:39:03.796 [main] TRACE utilities.Base - Password entered
+2021-06-21-06:39:08.539 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-06:39:08.543 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-06:39:09.135 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-06:39:09.463 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-09:35:35.738 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-09:35:39.789 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-09:35:41.585 [main] DEBUG utilities.Base - URL launched
+2021-06-21-09:35:41.780 [main] TRACE utilities.Base - Username entered
+2021-06-21-09:35:41.868 [main] TRACE utilities.Base - Password entered
+2021-06-21-09:35:48.572 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-09:35:50.260 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-09:35:53.361 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-09:35:55.166 [main] DEBUG utilities.Base - URL launched
+2021-06-21-09:35:55.287 [main] TRACE utilities.Base - Username entered
+2021-06-21-09:35:55.593 [main] TRACE utilities.Base - Password entered
+2021-06-21-09:36:03.726 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-09:36:05.193 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-09:36:07.955 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-09:36:09.617 [main] DEBUG utilities.Base - URL launched
+2021-06-21-09:36:09.739 [main] TRACE utilities.Base - Username entered
+2021-06-21-09:36:09.842 [main] TRACE utilities.Base - Password entered
+2021-06-21-09:36:09.937 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-09:36:14.263 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-09:36:17.943 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-09:36:19.733 [main] DEBUG utilities.Base - URL launched
+2021-06-21-09:36:19.870 [main] TRACE utilities.Base - Username entered
+2021-06-21-09:36:20.039 [main] TRACE utilities.Base - Password entered
+2021-06-21-09:36:22.493 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-09:36:24.481 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-09:36:27.441 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-09:36:29.233 [main] DEBUG utilities.Base - URL launched
+2021-06-21-09:36:29.384 [main] TRACE utilities.Base - Username entered
+2021-06-21-09:36:29.521 [main] TRACE utilities.Base - Password entered
+2021-06-21-09:36:30.661 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-09:36:32.630 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-09:36:35.535 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-09:36:37.455 [main] DEBUG utilities.Base - URL launched
+2021-06-21-09:36:37.457 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-09:36:39.078 [main] TRACE utilities.Base - Username entered
+2021-06-21-09:36:39.248 [main] TRACE utilities.Base - Password entered
+2021-06-21-09:36:44.950 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-09:36:44.952 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-09:36:45.616 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-09:36:45.822 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-09:36:48.901 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-09:36:51.679 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-09:36:54.712 [main] DEBUG utilities.Base - URL launched
+2021-06-21-09:36:54.713 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-09:36:54.976 [main] TRACE utilities.Base - Username entered
+2021-06-21-09:36:55.109 [main] TRACE utilities.Base - Password entered
+2021-06-21-09:37:00.371 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-09:37:00.372 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-09:37:00.937 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-09:37:01.201 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-10:07:25.659 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-10:07:29.462 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-10:07:31.121 [main] DEBUG utilities.Base - URL launched
+2021-06-21-10:07:31.133 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-10:07:32.370 [main] TRACE utilities.Base - Username entered
+2021-06-21-10:07:32.463 [main] TRACE utilities.Base - Password entered
+2021-06-21-10:07:39.026 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-10:07:39.028 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-10:07:39.886 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-10:07:40.196 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-10:07:43.633 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-10:07:47.353 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-10:07:49.478 [main] DEBUG utilities.Base - URL launched
+2021-06-21-10:07:49.479 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-10:07:49.850 [main] TRACE utilities.Base - Username entered
+2021-06-21-10:07:49.985 [main] TRACE utilities.Base - Password entered
+2021-06-21-10:07:50.093 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-10:07:50.095 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-10:07:56.621 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-10:07:57.038 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-12:56:14.467 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-12:56:19.564 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-12:56:21.804 [main] DEBUG utilities.Base - URL launched
+2021-06-21-12:56:21.817 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-12:56:22.898 [main] TRACE utilities.Base - Username entered
+2021-06-21-12:56:22.988 [main] TRACE utilities.Base - Password entered
+2021-06-21-12:56:29.453 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-12:56:29.456 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-12:56:30.135 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-12:56:30.335 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-13:01:09.747 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-13:01:13.146 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-13:01:14.559 [main] DEBUG utilities.Base - URL launched
+2021-06-21-13:01:14.576 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-13:01:15.814 [main] TRACE utilities.Base - Username entered
+2021-06-21-13:01:15.930 [main] TRACE utilities.Base - Password entered
+2021-06-21-13:01:21.269 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-13:01:21.271 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-13:01:21.760 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-13:01:22.014 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-14:42:31.988 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-14:42:37.048 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-14:42:38.704 [main] DEBUG utilities.Base - URL launched
+2021-06-21-14:42:38.727 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-14:42:40.597 [main] TRACE utilities.Base - Username entered
+2021-06-21-14:42:40.756 [main] TRACE utilities.Base - Password entered
+2021-06-21-14:42:47.996 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-14:42:47.997 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-14:42:49.020 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-14:42:49.405 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-20:25:52.021 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-20:25:56.612 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-20:25:58.574 [main] DEBUG utilities.Base - URL launched
+2021-06-21-20:25:58.600 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-20:26:00.188 [main] TRACE utilities.Base - Username entered
+2021-06-21-20:26:00.394 [main] TRACE utilities.Base - Password entered
+2021-06-21-20:26:06.720 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-20:26:06.722 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-20:26:07.820 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-20:26:08.010 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-21-20:27:34.793 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-20:27:39.003 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-20:27:40.623 [main] DEBUG utilities.Base - URL launched
+2021-06-21-20:27:40.998 [main] TRACE utilities.Base - Username entered
+2021-06-21-20:27:41.101 [main] TRACE utilities.Base - Password entered
+2021-06-21-20:27:41.274 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-20:27:49.217 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-20:27:52.277 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-20:27:53.755 [main] DEBUG utilities.Base - URL launched
+2021-06-21-20:27:53.873 [main] TRACE utilities.Base - Username entered
+2021-06-21-20:27:53.976 [main] TRACE utilities.Base - Password entered
+2021-06-21-20:27:54.078 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-20:28:02.034 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-20:28:05.456 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-20:28:07.384 [main] DEBUG utilities.Base - URL launched
+2021-06-21-20:28:07.529 [main] TRACE utilities.Base - Username entered
+2021-06-21-20:28:07.661 [main] TRACE utilities.Base - Password entered
+2021-06-21-20:28:10.039 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-20:28:11.997 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-20:28:16.044 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-20:28:17.804 [main] DEBUG utilities.Base - URL launched
+2021-06-21-20:28:17.954 [main] TRACE utilities.Base - Username entered
+2021-06-21-20:28:18.114 [main] TRACE utilities.Base - Password entered
+2021-06-21-20:28:20.019 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-20:28:22.312 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-20:28:26.110 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-20:28:27.699 [main] DEBUG utilities.Base - URL launched
+2021-06-21-20:28:27.875 [main] TRACE utilities.Base - Username entered
+2021-06-21-20:28:28.025 [main] TRACE utilities.Base - Password entered
+2021-06-21-20:28:29.235 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-20:28:31.378 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-21-20:28:35.071 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-21-20:28:36.652 [main] DEBUG utilities.Base - URL launched
+2021-06-21-20:28:36.653 [main] TRACE utilities.Base - Login class initialized
+2021-06-21-20:28:38.346 [main] TRACE utilities.Base - Username entered
+2021-06-21-20:28:38.475 [main] TRACE utilities.Base - Password entered
+2021-06-21-20:28:38.742 [main] TRACE utilities.Base - Login button clicked
+2021-06-21-20:28:38.743 [main] DEBUG utilities.Base - logOut method called
+2021-06-21-20:28:46.210 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-21-20:28:46.816 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-22-11:27:32.745 [main] FATAL utilities.Base - Exception in onTestSuccess Method of Listeners class
+2021-06-22-11:27:32.747 [main] FATAL utilities.Base - null : [Ljava.lang.StackTraceElement;@5c77053b
+2021-06-22-11:27:32.752 [main] FATAL utilities.Base - Exception in onTestFailure Method of Listeners class
+2021-06-22-11:27:32.753 [main] FATAL utilities.Base - null : [Ljava.lang.StackTraceElement;@ecf9049
+2021-06-22-11:31:29.751 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:31:35.371 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:31:36.804 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:31:36.826 [main] TRACE utilities.Base - Login class initialized
+2021-06-22-11:31:38.844 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:31:38.941 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:31:48.165 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:31:48.167 [main] DEBUG utilities.Base - logOut method called
+2021-06-22-11:31:49.576 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-22-11:31:50.069 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-22-11:37:08.872 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:37:14.063 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:37:15.624 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:37:15.921 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:37:16.049 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:37:22.528 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:37:24.274 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:37:27.776 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:37:29.676 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:37:29.823 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:37:29.951 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:37:40.539 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:37:42.344 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:37:46.710 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:37:48.230 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:37:48.411 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:37:48.550 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:37:50.420 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:37:52.791 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:37:57.030 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:37:58.507 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:37:58.638 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:37:58.779 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:38:00.682 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:38:02.837 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:38:07.024 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:38:08.566 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:38:08.743 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:38:08.928 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:38:09.086 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:38:12.198 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:38:16.832 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:38:18.372 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:38:18.373 [main] TRACE utilities.Base - Login class initialized
+2021-06-22-11:38:20.084 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:38:20.221 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:38:27.876 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:38:27.877 [main] DEBUG utilities.Base - logOut method called
+2021-06-22-11:38:29.042 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-22-11:38:29.295 [main] DEBUG utilities.Base - Log Out Clicked
+2021-06-22-11:44:32.496 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:44:36.098 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:44:37.840 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:44:38.002 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:44:38.073 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:44:45.410 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:44:47.128 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:44:50.430 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:44:52.571 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:44:52.683 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:44:52.789 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:45:01.352 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:45:02.904 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:45:06.059 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:45:08.170 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:45:08.310 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:45:08.427 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:45:09.727 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:45:12.068 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:45:15.583 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:45:17.013 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:45:17.173 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:45:17.306 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:45:17.426 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:45:21.547 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:45:25.780 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:45:27.503 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:45:27.660 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:45:27.800 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:45:28.910 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:45:30.860 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-06-22-11:45:34.378 [main] DEBUG utilities.Base - Driver is Initialized
+2021-06-22-11:45:35.849 [main] DEBUG utilities.Base - URL launched
+2021-06-22-11:45:35.850 [main] TRACE utilities.Base - Login class initialized
+2021-06-22-11:45:37.308 [main] TRACE utilities.Base - Username entered
+2021-06-22-11:45:37.420 [main] TRACE utilities.Base - Password entered
+2021-06-22-11:45:44.455 [main] TRACE utilities.Base - Login button clicked
+2021-06-22-11:45:44.456 [main] DEBUG utilities.Base - logOut method called
+2021-06-22-11:45:45.450 [main] DEBUG utilities.Base - View Profile Clicked
+2021-06-22-11:45:45.668 [main] DEBUG utilities.Base - Log Out Clicked
+2021-07-04-18:59:01.404 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-18:59:08.354 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-18:59:09.976 [main] DEBUG utilities.Base - URL launched
+2021-07-04-18:59:09.979 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-18:59:09.979 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-18:59:10.791 [main] FATAL utilities.Base - Exception in login method Keys to send should be a not null CharSequence
+2021-07-04-19:01:03.628 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:01:07.433 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:01:08.910 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:01:08.915 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in IndividualTest
+2021-07-04-19:01:08.915 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:01:10.040 [main] FATAL utilities.Base - Exception in login method Keys to send should be a not null CharSequence
+2021-07-04-19:03:15.547 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:03:19.655 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:03:21.147 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:03:21.151 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:03:21.151 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:08:02.716 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:08:06.396 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:08:08.149 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:08:08.153 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:08:08.153 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:08:09.560 [main] TRACE utilities.Base - Username entered
+2021-07-04-19:08:09.721 [main] TRACE utilities.Base - Password entered
+2021-07-04-19:08:22.002 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-19:08:22.050 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-19:08:41.323 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-19:08:41.324 [main] DEBUG utilities.Base - logOut method called
+2021-07-04-19:08:41.370 [main] DEBUG utilities.Base - View Profile Clicked
+2021-07-04-19:08:41.586 [main] DEBUG utilities.Base - Log Out Clicked
+2021-07-04-19:28:24.427 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:28:28.122 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:28:29.684 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:28:29.689 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:28:29.689 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:28:39.036 [main] TRACE utilities.Base - Username entered
+2021-07-04-19:28:39.109 [main] TRACE utilities.Base - Password entered
+2021-07-04-19:28:44.199 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-19:28:44.203 [main] INFO  utilities.Base - Login Success
+2021-07-04-19:28:44.273 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-19:29:45.309 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-19:29:45.309 [main] DEBUG utilities.Base - logOut method called
+2021-07-04-19:30:00.362 [main] FATAL utilities.Base - NoSuchElementException in logOut method no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='uiImage']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTL014311', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\HUZEFA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50352}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be65ab1a0f07cd9aaa15b78652510e09
+*** Element info: {Using=xpath, value=//span[@class='uiImage']}
+2021-07-04-19:33:15.954 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:33:19.641 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:33:21.073 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:33:21.079 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:33:21.079 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:33:22.165 [main] TRACE utilities.Base - Username entered
+2021-07-04-19:33:22.266 [main] TRACE utilities.Base - Password entered
+2021-07-04-19:33:27.464 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-19:33:27.467 [main] INFO  utilities.Base - Login Success
+2021-07-04-19:33:27.528 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-19:34:43.250 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-19:34:43.250 [main] DEBUG utilities.Base - logOut method called
+2021-07-04-19:34:58.315 [main] FATAL utilities.Base - NoSuchElementException in logOut method no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='uiImage']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTL014311', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\HUZEFA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54079}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b6f0534bc2ec1814a67bb11b1c8e85e
+*** Element info: {Using=xpath, value=//span[@class='uiImage']}
+2021-07-04-19:38:26.980 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:38:30.560 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:38:32.690 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:38:32.694 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:38:32.694 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:38:34.071 [main] TRACE utilities.Base - Username entered
+2021-07-04-19:38:34.176 [main] TRACE utilities.Base - Password entered
+2021-07-04-19:38:40.142 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-19:38:40.144 [main] INFO  utilities.Base - Login Success
+2021-07-04-19:38:40.186 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-19:39:38.038 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-19:39:38.038 [main] DEBUG utilities.Base - logOut method called
+2021-07-04-19:39:53.062 [main] FATAL utilities.Base - NoSuchElementException in logOut method no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='uiImage']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTL014311', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\HUZEFA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62544}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 277025e0985aaaa709cc793e03623f9b
+*** Element info: {Using=xpath, value=//span[@class='uiImage']}
+2021-07-04-19:40:33.429 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:40:36.974 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:40:38.403 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:40:38.407 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:40:38.407 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:40:39.968 [main] TRACE utilities.Base - Username entered
+2021-07-04-19:40:40.095 [main] TRACE utilities.Base - Password entered
+2021-07-04-19:40:45.044 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-19:40:45.048 [main] INFO  utilities.Base - Login Success
+2021-07-04-19:40:45.100 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-19:41:35.130 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-19:44:28.876 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:44:32.467 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:44:34.241 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:44:34.245 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:44:34.245 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:44:35.515 [main] TRACE utilities.Base - Username entered
+2021-07-04-19:44:35.631 [main] TRACE utilities.Base - Password entered
+2021-07-04-19:44:41.397 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-19:44:41.401 [main] INFO  utilities.Base - Login Success
+2021-07-04-19:44:41.457 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-19:44:57.338 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-19:45:46.552 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:45:50.307 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:45:52.018 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:45:52.023 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:45:52.023 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:45:53.372 [main] TRACE utilities.Base - Username entered
+2021-07-04-19:45:53.531 [main] TRACE utilities.Base - Password entered
+2021-07-04-19:45:59.521 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-19:45:59.524 [main] INFO  utilities.Base - Login Success
+2021-07-04-19:45:59.580 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-19:46:49.741 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-19:49:25.446 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-19:49:29.266 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-19:49:30.756 [main] DEBUG utilities.Base - URL launched
+2021-07-04-19:49:30.761 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-19:49:30.761 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-19:49:32.197 [main] TRACE utilities.Base - Username entered
+2021-07-04-19:49:32.276 [main] TRACE utilities.Base - Password entered
+2021-07-04-19:49:32.398 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-19:49:32.400 [main] INFO  utilities.Base - Login Success
+2021-07-04-19:49:32.436 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-19:50:42.279 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-20:01:15.897 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:01:20.653 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:01:22.905 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:01:22.912 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:01:22.912 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:01:24.028 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:01:24.114 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:01:30.951 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:01:30.957 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:01:31.034 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:03:10.448 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:03:14.061 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:03:15.589 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:03:15.593 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:03:15.594 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:03:16.819 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:03:17.012 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:03:22.517 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:03:22.520 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:03:22.586 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:04:25.660 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-20:07:35.745 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:07:39.697 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:07:41.172 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:07:41.176 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:07:41.177 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:07:42.521 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:07:42.690 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:07:48.601 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:07:48.609 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:07:48.670 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:09:14.109 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-20:19:22.729 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:19:26.504 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:19:28.610 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:19:28.615 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:19:28.615 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:19:29.735 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:19:29.807 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:19:35.193 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:19:35.197 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:19:35.265 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:26:58.689 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:27:02.464 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:27:03.997 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:27:04.003 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:27:04.003 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:27:05.615 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:27:05.694 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:27:11.056 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:27:11.060 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:27:11.123 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:27:28.561 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-20:31:06.747 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:31:10.487 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:31:12.199 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:31:12.204 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:31:12.204 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:31:13.452 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:31:13.612 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:31:13.711 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:31:13.716 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:31:13.780 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:31:36.365 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-20:33:41.772 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:33:45.585 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:33:47.009 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:33:47.015 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:33:47.015 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:33:48.194 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:33:48.283 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:33:55.375 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:33:55.379 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:33:55.444 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:35:38.069 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:35:42.067 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:35:43.493 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:35:43.500 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:35:43.500 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:35:44.789 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:35:44.868 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:35:49.741 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:35:49.744 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:35:49.793 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:36:07.002 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-20:41:40.379 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:41:44.772 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:41:46.220 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:41:46.225 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:41:46.225 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:41:47.373 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:41:47.555 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:41:52.691 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:41:52.694 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:41:52.747 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:43:28.097 [main] DEBUG scripts.SMELoans.EndToEndTest - docCheck() Method called from DocCheckModule class
+2021-07-04-20:43:58.225 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-20:44:49.941 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:44:53.724 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:44:55.145 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:44:55.151 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:44:55.151 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:44:56.359 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:44:56.451 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:45:01.849 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:45:01.851 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:45:01.903 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:46:47.576 [main] DEBUG scripts.SMELoans.EndToEndTest - docCheck() Method called from DocCheckModule class
+2021-07-04-20:47:17.621 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-20:50:32.069 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-20:50:35.659 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-20:50:37.105 [main] DEBUG utilities.Base - URL launched
+2021-07-04-20:50:37.110 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-20:50:37.110 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-20:50:38.205 [main] TRACE utilities.Base - Username entered
+2021-07-04-20:50:38.354 [main] TRACE utilities.Base - Password entered
+2021-07-04-20:50:42.904 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-20:50:42.906 [main] INFO  utilities.Base - Login Success
+2021-07-04-20:50:42.958 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-20:52:14.769 [main] DEBUG scripts.SMELoans.EndToEndTest - docCheck() Method called from DocCheckModule class
+2021-07-04-20:52:44.864 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-21:24:45.819 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-21:24:50.521 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-21:24:52.673 [main] DEBUG utilities.Base - URL launched
+2021-07-04-21:24:52.678 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-21:24:52.678 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-21:24:54.219 [main] TRACE utilities.Base - Username entered
+2021-07-04-21:24:54.389 [main] TRACE utilities.Base - Password entered
+2021-07-04-21:25:00.798 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-21:25:00.804 [main] INFO  utilities.Base - Login Success
+2021-07-04-21:25:00.855 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-21:26:35.955 [main] DEBUG scripts.SMELoans.EndToEndTest - docCheck() Method called from DocCheckModule class
+2021-07-04-21:26:55.720 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-21:27:13.025 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-21:37:20.010 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-21:37:24.160 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-21:37:25.731 [main] DEBUG utilities.Base - URL launched
+2021-07-04-21:37:25.736 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-21:37:25.736 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-21:37:27.312 [main] TRACE utilities.Base - Username entered
+2021-07-04-21:37:27.414 [main] TRACE utilities.Base - Password entered
+2021-07-04-21:37:32.792 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-21:37:32.799 [main] INFO  utilities.Base - Login Success
+2021-07-04-21:37:32.871 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-21:39:14.834 [main] DEBUG scripts.SMELoans.EndToEndTest - docCheck() Method called from DocCheckModule class
+2021-07-04-21:39:48.189 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-21:40:05.854 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-21:44:07.165 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-21:44:10.904 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-21:44:12.924 [main] DEBUG utilities.Base - URL launched
+2021-07-04-21:44:12.928 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-21:44:12.928 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-21:44:13.989 [main] TRACE utilities.Base - Username entered
+2021-07-04-21:44:14.063 [main] TRACE utilities.Base - Password entered
+2021-07-04-21:44:19.754 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-21:44:19.758 [main] INFO  utilities.Base - Login Success
+2021-07-04-21:44:19.824 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-21:46:13.099 [main] DEBUG scripts.SMELoans.EndToEndTest - docCheck() Method called from DocCheckModule class
+2021-07-04-21:46:33.029 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-21:47:10.298 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-21:52:00.758 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-21:52:04.521 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-21:52:06.003 [main] DEBUG utilities.Base - URL launched
+2021-07-04-21:52:06.007 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-21:52:06.007 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-21:52:07.159 [main] TRACE utilities.Base - Username entered
+2021-07-04-21:52:07.317 [main] TRACE utilities.Base - Password entered
+2021-07-04-21:52:12.489 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-21:52:12.494 [main] INFO  utilities.Base - Login Success
+2021-07-04-21:52:12.553 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-21:53:47.904 [main] DEBUG scripts.SMELoans.EndToEndTest - docCheck() Method called from DocCheckModule class
+2021-07-04-21:54:07.252 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-21:54:43.906 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-21:55:51.819 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-21:55:55.789 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-21:55:57.249 [main] DEBUG utilities.Base - URL launched
+2021-07-04-21:55:57.254 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-21:55:57.254 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-21:55:58.579 [main] TRACE utilities.Base - Username entered
+2021-07-04-21:55:58.812 [main] TRACE utilities.Base - Password entered
+2021-07-04-21:56:05.190 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-21:56:05.195 [main] INFO  utilities.Base - Login Success
+2021-07-04-21:56:05.268 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-22:02:20.096 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-22:02:24.060 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-22:02:26.012 [main] DEBUG utilities.Base - URL launched
+2021-07-04-22:02:26.017 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-22:02:26.017 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-22:02:27.685 [main] TRACE utilities.Base - Username entered
+2021-07-04-22:02:27.775 [main] TRACE utilities.Base - Password entered
+2021-07-04-22:02:27.859 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-22:02:27.863 [main] INFO  utilities.Base - Login Success
+2021-07-04-22:02:27.951 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-22:03:14.554 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-22:04:33.671 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-22:04:37.729 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-22:04:39.376 [main] DEBUG utilities.Base - URL launched
+2021-07-04-22:04:39.380 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-22:04:39.381 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-22:04:40.788 [main] TRACE utilities.Base - Username entered
+2021-07-04-22:04:40.942 [main] TRACE utilities.Base - Password entered
+2021-07-04-22:04:41.041 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-22:04:41.046 [main] INFO  utilities.Base - Login Success
+2021-07-04-22:04:41.127 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-22:05:09.148 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-22:07:14.450 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-22:07:18.605 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-22:07:20.166 [main] DEBUG utilities.Base - URL launched
+2021-07-04-22:07:20.171 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-22:07:20.171 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-22:07:22.330 [main] TRACE utilities.Base - Username entered
+2021-07-04-22:07:22.528 [main] TRACE utilities.Base - Password entered
+2021-07-04-22:07:28.736 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-22:07:28.740 [main] INFO  utilities.Base - Login Success
+2021-07-04-22:07:28.814 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-22:08:45.011 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest
+2021-07-04-22:20:36.739 [main] DEBUG utilities.Base - Initializing WebDriver
+2021-07-04-22:20:40.916 [main] DEBUG utilities.Base - Driver is Initialized
+2021-07-04-22:20:43.197 [main] DEBUG utilities.Base - URL launched
+2021-07-04-22:20:43.202 [main] DEBUG scripts.SMELoans.EndToEndTest -  loginTest() called in EndToEndTest
+2021-07-04-22:20:43.202 [main] TRACE utilities.Base - Login class initialized
+2021-07-04-22:20:44.557 [main] TRACE utilities.Base - Username entered
+2021-07-04-22:20:44.683 [main] TRACE utilities.Base - Password entered
+2021-07-04-22:20:50.916 [main] TRACE utilities.Base - Login button clicked
+2021-07-04-22:20:50.924 [main] INFO  utilities.Base - Login Success
+2021-07-04-22:20:50.996 [main] DEBUG scripts.SMELoans.EndToEndTest - newLoanApplication() Method called from CreateNewLoanApplicationModule
+2021-07-04-22:22:40.762 [main] DEBUG scripts.SMELoans.EndToEndTest - docCheck() Method called from DocCheckModule class
+2021-07-04-22:23:00.143 [main] DEBUG scripts.SMELoans.EndToEndTest - financials() Method called from FinancialsModule class
+2021-07-04-22:24:10.847 [main] DEBUG scripts.SMELoans.EndToEndTest - teardown() called in CreateLoanApplicationTest

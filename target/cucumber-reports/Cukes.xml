@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="76.312">
+<testcase classname="Login feature" name="Positive Login Validation" time="13.033">
+<system-out><![CDATA[Given User is on Salesforce login page......................................passed
+When User enters username as rm.user@qasit.com and password as Test@123.....passed
+And User clicks on login button.............................................passed
+Then Verify that user is successfully logged-in.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login feature" name="Positive Login Validation 2" time="14.288">
+<system-out><![CDATA[Given User is on Salesforce login page......................................passed
+When User enters username as maker@salod.stage and password as May@2021.....passed
+And User clicks on login button.............................................passed
+Then Verify that user is successfully logged-in.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login feature" name="Negative Login Validation" time="7.431">
+<system-out><![CDATA[Given User is on Salesforce login page......................................passed
+When User enters username as Invalid@Username.com and password as Test@123..passed
+And User clicks on login button.............................................passed
+Then Login should fail......................................................passed
+And Verify that following Your access to salesforce.com has been disabled by your system administrator. Please contact your Administrator for more information. is displayed to the user.passed
+]]></system-out>
+</testcase>
+<testcase classname="Login feature" name="Negative Login Validation 2" time="7.717">
+<system-out><![CDATA[Given User is on Salesforce login page......................................passed
+When User enters username as rm.user@qasit.com and password as InValid_Password.passed
+And User clicks on login button.............................................passed
+Then Login should fail......................................................passed
+And Verify that following Please check your username and password. If you still can't log in, contact your Salesforce administrator. is displayed to the user.passed
+]]></system-out>
+</testcase>
+<testcase classname="Login feature" name="Negative Login Validation 3" time="7.536">
+<system-out><![CDATA[Given User is on Salesforce login page......................................passed
+When User enters username as Invalid@Username.com and password as InValid_Password.passed
+And User clicks on login button.............................................passed
+Then Login should fail......................................................passed
+And Verify that following Your access to salesforce.com has been disabled by your system administrator. Please contact your Administrator for more information. is displayed to the user.passed
+]]></system-out>
+</testcase>
+<testcase classname="Logout feature" name="Logout of application1" time="16.141">
+<system-out><![CDATA[Given User is on Salesforce login page......................................passed
+Given "RMUser" has logged into Salesforce application.......................passed
+When User clicks on logout button...........................................passed
+Then Users is logged-out from the application...............................passed
+]]></system-out>
+</testcase>
+</testsuite>

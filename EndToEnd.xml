@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="R2 POC">
+<listeners>
+	<listener class-name="utils.Listeners" />
+</listeners>
+
+  <test name="Create New Loan Application">
+    <classes>     
+      <class name="R2.EndToEndTest">
+      <methods>      
+      	<include name="endToEnd"/>
+      </methods>      	
+      </class>     
+    </classes>
+  </test>
+  
+  
+</suite>

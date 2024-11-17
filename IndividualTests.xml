@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="R2 Automation">
+<listeners>
+	<listener class-name="utils.Listeners" />
+</listeners>
+
+   <test name="Individual Test">
+	  <classes>	  		
+	  		<class name="R2.IndividualTest">
+	  			<methods>			      
+			      	<include name="newLoanApplication"/>
+			      	<include name="addIndividual"/>
+			      	<include name="docCheck"/>
+			      	<include name="financials"/>
+      			</methods> 
+	  		</class>
+	  		
+	  </classes>
+  </test>
+
+   
+
+  
+
+  
+</suite> <!-- Suite -->

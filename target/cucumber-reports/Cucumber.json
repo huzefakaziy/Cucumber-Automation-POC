@@ -1,0 +1,672 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5351000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Salesforce login page",
+            "match": {
+              "location": "stepDefinitions.CommonStepDefinitions.user_is_on_salesforce_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-22T06:14:32.486Z",
+        "line": 14,
+        "name": "Positive Login Validation",
+        "description": "",
+        "id": "login-feature;positive-login-validation;;2",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 219000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enters username as rm.user@qasit.com and password as Test@123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "rm.user@qasit.com",
+                  "offset": 24
+                },
+                {
+                  "val": "Test@123",
+                  "offset": 58
+                }
+              ],
+              "location": "stepDefinitions.LoginStepDefinitions.user_enters_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7336000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User clicks on login button",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.user_clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 107000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Verify that user is successfully logged-in",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.verify_that_user_is_successfully_loggedin()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PositiveTest"
+          },
+          {
+            "name": "@SanityTest"
+          },
+          {
+            "name": "@High"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5444000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Salesforce login page",
+            "match": {
+              "location": "stepDefinitions.CommonStepDefinitions.user_is_on_salesforce_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-22T06:14:47.127Z",
+        "line": 15,
+        "name": "Positive Login Validation",
+        "description": "",
+        "id": "login-feature;positive-login-validation;;3",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 217000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enters username as maker@salod.stage and password as May@2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "maker@salod.stage",
+                  "offset": 24
+                },
+                {
+                  "val": "May@2021",
+                  "offset": 58
+                }
+              ],
+              "location": "stepDefinitions.LoginStepDefinitions.user_enters_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8562000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User clicks on login button",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.user_clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 57000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Verify that user is successfully logged-in",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.verify_that_user_is_successfully_loggedin()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PositiveTest"
+          },
+          {
+            "name": "@SanityTest"
+          },
+          {
+            "name": "@High"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5267000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Salesforce login page",
+            "match": {
+              "location": "stepDefinitions.CommonStepDefinitions.user_is_on_salesforce_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-22T06:15:02.904Z",
+        "line": 27,
+        "name": "Negative Login Validation",
+        "description": "",
+        "id": "login-feature;negative-login-validation;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 255000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User enters username as Invalid@Username.com and password as Test@123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Invalid@Username.com",
+                  "offset": 24
+                },
+                {
+                  "val": "Test@123",
+                  "offset": 61
+                }
+              ],
+              "location": "stepDefinitions.LoginStepDefinitions.user_enters_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1300000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User clicks on login button",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.user_clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Login should fail",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.login_should_fail()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 496000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Verify that following Your access to salesforce.com has been disabled by your system administrator. Please contact your Administrator for more information. is displayed to the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Your access to salesforce.com has been disabled by your system administrator. Please contact your Administrator for more information.",
+                  "offset": 22
+                }
+              ],
+              "location": "stepDefinitions.LoginStepDefinitions.verify_that_following_is_displayed_to_the_user(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Login"
+          },
+          {
+            "name": "@SanityTest"
+          },
+          {
+            "name": "@NegativeTest"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4945000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Salesforce login page",
+            "match": {
+              "location": "stepDefinitions.CommonStepDefinitions.user_is_on_salesforce_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-22T06:15:12.067Z",
+        "line": 28,
+        "name": "Negative Login Validation",
+        "description": "",
+        "id": "login-feature;negative-login-validation;;3",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 293000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User enters username as rm.user@qasit.com and password as InValid_Password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "rm.user@qasit.com",
+                  "offset": 24
+                },
+                {
+                  "val": "InValid_Password",
+                  "offset": 58
+                }
+              ],
+              "location": "stepDefinitions.LoginStepDefinitions.user_enters_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 119000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User clicks on login button",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.user_clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1969000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Login should fail",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.login_should_fail()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 386000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Verify that following Please check your username and password. If you still can\u0027t log in, contact your Salesforce administrator. is displayed to the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Please check your username and password. If you still can\u0027t log in, contact your Salesforce administrator.",
+                  "offset": 22
+                }
+              ],
+              "location": "stepDefinitions.LoginStepDefinitions.verify_that_following_is_displayed_to_the_user(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Login"
+          },
+          {
+            "name": "@SanityTest"
+          },
+          {
+            "name": "@NegativeTest"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5956000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Salesforce login page",
+            "match": {
+              "location": "stepDefinitions.CommonStepDefinitions.user_is_on_salesforce_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-22T06:15:21.546Z",
+        "line": 29,
+        "name": "Negative Login Validation",
+        "description": "",
+        "id": "login-feature;negative-login-validation;;4",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 296000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User enters username as Invalid@Username.com and password as InValid_Password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Invalid@Username.com",
+                  "offset": 24
+                },
+                {
+                  "val": "InValid_Password",
+                  "offset": 61
+                }
+              ],
+              "location": "stepDefinitions.LoginStepDefinitions.user_enters_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1111000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User clicks on login button",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.user_clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 100000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Login should fail",
+            "match": {
+              "location": "stepDefinitions.LoginStepDefinitions.login_should_fail()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 69000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Verify that following Your access to salesforce.com has been disabled by your system administrator. Please contact your Administrator for more information. is displayed to the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Your access to salesforce.com has been disabled by your system administrator. Please contact your Administrator for more information.",
+                  "offset": 22
+                }
+              ],
+              "location": "stepDefinitions.LoginStepDefinitions.verify_that_following_is_displayed_to_the_user(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Login"
+          },
+          {
+            "name": "@SanityTest"
+          },
+          {
+            "name": "@NegativeTest"
+          }
+        ]
+      }
+    ],
+    "name": "Login feature",
+    "description": "",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/featuresCommon/Login.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4989000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Salesforce login page",
+            "match": {
+              "location": "stepDefinitions.CommonStepDefinitions.user_is_on_salesforce_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-22T06:15:30.860Z",
+        "line": 8,
+        "name": "Logout of application1",
+        "description": "",
+        "id": "logout-feature;logout-of-application1",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8605000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "\"RMUser\" has logged into Salesforce application",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RMUser",
+                  "offset": 1
+                }
+              ],
+              "location": "stepDefinitions.CommonStepDefinitions.something_has_logged_into_salesforce_application(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1213000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User clicks on logout button",
+            "match": {
+              "location": "stepDefinitions.LogoutStepDefinition.user_clicks_on_logout_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1332000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Users is logged-out from the application",
+            "match": {
+              "location": "stepDefinitions.LogoutStepDefinition.users_is_loggedout_from_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          },
+          {
+            "name": "@Low"
+          },
+          {
+            "name": "@PositiveTest"
+          },
+          {
+            "name": "@Logout"
+          }
+        ]
+      }
+    ],
+    "name": "Logout feature",
+    "description": "",
+    "id": "logout-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/featuresCommon/Logout.feature",
+    "tags": []
+  }
+]
